@@ -9,7 +9,7 @@ Explore this presentation
 
 <div style="width:1125px;">
   <div style="float:left;">
-    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQeVoKAaZJoZy-wTBIpbCsJAI5R7axww_qTo5-JWq7sUX2h6sqIlpxwPCu-9KFY2KVGTo7m7YvOQkGA/pub?start=false&loop=false&delayms=3000
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQeVoKAaZJoZy-wTBIpbCsJAI5R7axww_qTo5-JWq7sUX2h6sqIlpxwPCu-9KFY2KVGTo7m7YvOQkGA/pub?start=false&loop=false&delayms=3000"
   start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
   </div>
   <div style="float:right;">
