@@ -7,7 +7,7 @@ Explore this presentation
 
 
 
-<div style="width:1125px;">
+
   <div style="float:left;">
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTMdNf7t4UthoSoGhuR7H943m5UD418arhCA_eQeLAq8m14t0qtORBT3l7LWqqJPqcrW_n7eHP5UXG_/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
   </div>
